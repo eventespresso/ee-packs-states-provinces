@@ -1,4 +1,4 @@
-ee_netherlands_states_provinces
+Netherlands States/Provinces Pack
 =============================
 
 This plugin adds Netherlands States/Provinces to Event Espresso 4
