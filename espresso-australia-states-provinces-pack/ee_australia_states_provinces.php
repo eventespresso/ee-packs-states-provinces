@@ -41,7 +41,7 @@ function ee_australia_states_provinces_activate() {
 
   if ($wpdb->query($sql)){
 
-    update_option( 'ee_australia_states_provinces_added', 1 );
+    add_option( 'ee_australia_states_provinces_added', 1, '', 'no' )
 
   }
 

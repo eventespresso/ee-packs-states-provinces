@@ -44,8 +44,8 @@ function ee_netherlands_states_provinces_activate() {
     ('NL', 'ZH', 'Zuid-Holland', 1);";
 
   if ($wpdb->query($sql)){
-
-    update_option( 'ee_netherlands_states_provinces_added', 1 );
+    
+    add_option( 'ee_netherlands_states_provinces_added', 1, '', 'no' )
 
   }
 
