@@ -49,7 +49,7 @@ function ee_germany_states_provinces_activate() {
 
   if ($wpdb->query($sql)){
     
-    add_option( 'ee_germany_states_provinces_added', 1, '', 'no' )
+    add_option( 'ee_germany_states_provinces_added', 1, '', 'no' );
 
   }
 
