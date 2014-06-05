@@ -47,11 +47,6 @@ function ee_netherlands_states_provinces_activate() {
 
     update_option( 'ee_netherlands_states_provinces_added', 1 );
 
-    function espresso_netherlands_states_provinces_success(){
-      echo '<div id="message" class="updated fade">'.__('Australia States/Provinces Successfully Added').'</div>';
-    }
-    add_action('admin_notice', 'espresso_netherlands_states_provinces_success');
-
   }
 
 }

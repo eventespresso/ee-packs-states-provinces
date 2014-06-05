@@ -43,11 +43,6 @@ function ee_australia_states_provinces_activate() {
 
     update_option( 'ee_australia_states_provinces_added', 1 );
 
-    function espresso_australia_states_provinces_success(){
-      echo '<div id="message" class="updated fade">'.__('Australia States/Provinces Successfully Added').'</div>';
-    }
-    add_action('admin_notice', 'espresso_australia_states_provinces_success');
-
   }
 
 }
