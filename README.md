@@ -1,7 +1,7 @@
 Event Espresso State/Province Packs
 =========================
 
-These plugins add extra states/provinces to Event Espresso 4.
+These plugins are **not language packs** and will add extra states/provinces to Event Espresso 4.
 
 
 Install State/Province Packs
