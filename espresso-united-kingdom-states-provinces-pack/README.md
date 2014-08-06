@@ -1,4 +1,4 @@
-United Kingdom States/Provinces Pack
+United Kingdom Counties Pack
 =============================
 
-This plugin adds United Kingdom States/Provinces to Event Espresso 4
+This plugin adds United Kingdom Counties to Event Espresso 4
