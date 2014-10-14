@@ -50,7 +50,7 @@ function ee_france_states_provinces_activate() {
     ('FR', 'FR-R', 'Pays de la Loire', 1),
     ('FR', 'FR-S', 'Picardie', 1),
     ('FR', 'FR-T', 'Poitou-Charentes', 1),
-    ('FR', 'FR-U', 'Provence-Alpes-Côte d'Azur', 1),,
+    ('FR', 'FR-U', 'Provence-Alpes-Côte d''Azur', 1),,
     ('FR', 'FR-V', 'Rhône-Alpes', 1);";
 
   if ($wpdb->query($sql)){

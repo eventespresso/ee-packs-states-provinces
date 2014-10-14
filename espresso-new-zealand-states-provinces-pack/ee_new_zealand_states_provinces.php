@@ -33,7 +33,7 @@ function ee_new_zealand_states_provinces_activate() {
     ('NZ', 'AUK', 'Aukland', 1),
     ('NZ', 'BOP', 'Bay of Plenty', 1),
     ('NZ', 'CAN', 'Canterbury', 1),
-    ('NZ', 'HKB', 'Hawke's Bay', 1),
+    ('NZ', 'HKB', 'Hawke''s Bay', 1),
     ('NZ', 'MWT', 'Manawatu-Wanganui', 1),
     ('NZ', 'NTL', 'Northland', 1),
     ('NZ', 'OTA', 'Otago', 1),
