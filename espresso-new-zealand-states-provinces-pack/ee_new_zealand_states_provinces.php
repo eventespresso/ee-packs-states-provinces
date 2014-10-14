@@ -30,7 +30,7 @@ function ee_new_zealand_states_provinces_activate() {
   global $wpdb;
 
   $sql = "INSERT INTO `" . $wpdb->prefix . "esp_state` (`CNT_ISO`, `STA_abbrev`, `STA_name`, `STA_active`) VALUES
-    ('NZ', 'AUK', 'Aukland', 1),
+    ('NZ', 'AUK', 'Auckland', 1),
     ('NZ', 'BOP', 'Bay of Plenty', 1),
     ('NZ', 'CAN', 'Canterbury', 1),
     ('NZ', 'HKB', 'Hawke''s Bay', 1),
