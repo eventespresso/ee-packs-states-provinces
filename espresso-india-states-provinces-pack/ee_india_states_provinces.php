@@ -1,8 +1,8 @@
 <?php
 /*
-  Plugin Name: Event Espresso - States/Provinces Pack: Spain
+  Plugin Name: Event Espresso - States/Provinces Pack: India
   Plugin URI: http://www.eventespresso.com
-  Description: The Event Espresso New Addon adds Spain States/Provinces to Event Espresso 4
+  Description: The Event Espresso New Addon adds Indiasp States/Provinces to Event Espresso 4
   Version: 1.0
   Author: Event Espresso
   Author URI: http://www.eventespresso.com
