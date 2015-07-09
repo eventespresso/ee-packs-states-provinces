@@ -1,6 +1,6 @@
 # States/Provinces Pack for the Country of Argentina
 
-This plugin will add states/provinces for Argentina in Event Espresso 4.
+This plugin will add states/provinces for Argentina in Event Espresso 4. These new states/provinces will then be available for use in the dropdown state/province menus which are used in various areas of Event Espresso 4.
 
 ## Installation
 
@@ -30,8 +30,8 @@ Verify that the new states/provinces are available by browsing to Event Espresso
 
 ## Resources
 
-Repository for the states/provinces pack: https://github.com/eventespresso/ee-packs-states-provinces
+Repository for the states/provinces packs: https://github.com/eventespresso/ee-packs-states-provinces
 
-Documentation for the states/provinces pack: http://eventespresso.com/wiki/install-new-state-province-packs/
+Documentation for the states/provinces packs: http://eventespresso.com/wiki/install-new-state-province-packs/
 
 Need help? Create a support post in our support forums: https://eventespresso.com/support/forums/
