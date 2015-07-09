@@ -2,7 +2,7 @@
 /*
   Plugin Name: Event Espresso - States/Provinces Pack: Argentina
   Plugin URI: http://www.eventespresso.com
-  Description: The Event Espresso New Addon adds Argentina States/Provinces to Event Espresso 4
+  Description: This plugins adds states/provinces for the country of Argentina to Event Espresso 4.
   Version: 1.0
   Author: Event Espresso
   Author URI: http://www.eventespresso.com

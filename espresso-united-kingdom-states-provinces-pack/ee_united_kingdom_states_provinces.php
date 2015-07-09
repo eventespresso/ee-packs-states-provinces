@@ -2,7 +2,7 @@
 /*
   Plugin Name: Event Espresso - Counties Pack: United Kingdom
   Plugin URI: http://www.eventespresso.com
-  Description: The Event Espresso New Addon adds United Kingdom Counties to Event Espresso 4
+  Description: This plugins adds states/provinces for the country of United Kingdom to Event Espresso 4.
   Version: 1.0
   Author: Event Espresso
   Author URI: http://www.eventespresso.com

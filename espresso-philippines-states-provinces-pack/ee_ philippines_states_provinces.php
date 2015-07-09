@@ -2,7 +2,7 @@
 /*
   Plugin Name: Event Espresso - States/Provinces Pack: Philippines
   Plugin URI: http://www.eventespresso.com
-  Description: This plugin adds Philippines States/Provinces to Event Espresso 4.
+  Description: This plugins adds states/provinces for the country of Philippines to Event Espresso 4.
   Version: 1.0
   Author: Event Espresso
   Author URI: http://www.eventespresso.com

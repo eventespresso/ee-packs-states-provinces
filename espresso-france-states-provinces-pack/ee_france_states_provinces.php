@@ -2,7 +2,7 @@
 /*
   Plugin Name: Event Espresso - States/Provinces Pack: France
   Plugin URI: http://www.eventespresso.com
-  Description: The Event Espresso New Addon adds France States/Provinces to Event Espresso 4
+  Description: This plugins adds states/provinces for the country of France to Event Espresso 4.
   Version: 1.0
   Author: Event Espresso
   Author URI: http://www.eventespresso.com

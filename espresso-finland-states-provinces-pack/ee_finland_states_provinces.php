@@ -2,7 +2,7 @@
 /*
   Plugin Name: Event Espresso - States/Provinces Pack: Finland
   Plugin URI: http://www.eventespresso.com
-  Description: This plugin adds Finland States/Provinces to Event Espresso 4.
+  Description: This plugins adds states/provinces for the country of Finland to Event Espresso 4.
   Version: 1.0
   Author: Event Espresso
   Author URI: http://www.eventespresso.com
