@@ -225,8 +225,6 @@ function ee_united_kingdom_states_provinces_activate() {
 		('GB', 'Sark', 'Sark', 1), 
 		('GB', 'Guernsey', 'Guernsey', 1);";
 
-	$wpdb->query($sql);
-
 	if ($wpdb->query($sql)){
 	
 		update_option( 'ee_united_kingdom_states_provinces_added', 1, '', 'no' );
